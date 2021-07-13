@@ -1,0 +1,45 @@
+$blue:    #1b5ba0;
+$indigo:  #61165E;
+$purple:  #440F42;
+$pink:    #D115C9;
+$red:     #A41022;
+$orange:  #d66310;
+$yellow:  #ffd905;
+$dark-green:#115c36;
+$light-green:#18c76f;
+$green:   #198c53;
+$teal:    #009ca9;
+$cyan:    #006D76;
+
+$primary: $dark-green;
+$secondary:     $light-green;
+$success:       $green;
+$info:          $blue;
+$warning: $orange;
+$danger:        $red;
+$light:         $gray-100;
+$dark:          $gray-900;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark,
+  "gray":       $gray-600,
+  "access-open": $indigo,
+  "access-free": $yellow,
+  "twitter":    #1da1f2,
+  "orcid":      #a6ce39,
+  "linkedin":   #0077B5,
+  "facebook":   #3b5998
+);
+
+
+$enable-rounded: true;
+$border-radius: 3px;
+$border-radius-lg: 4px;
+$border-radius-sm: 2px;
