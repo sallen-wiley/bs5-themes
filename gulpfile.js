@@ -1,4 +1,4 @@
-var theme = "wji";
+var theme = "jas";
 
 const gulp = require("gulp");
 const cleanCSS = require('clean-css');
